@@ -2,4 +2,4 @@ print("hello robot")
 
 print("move back")
 speed = 1.0
-speed = 0.5
+speed = 1.5
