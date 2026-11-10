@@ -1,11 +1,11 @@
 # My Robot
-거북이 로봇 연습 저장소
+거북이 로봇을 움직이는 **ROS2 연습** 저장소
  
-move.py
-print("hello robot")
-print("move forward")   ← ④ 에서 추가
+## 기능
+- 전진 / 후진
+- 센서 값 출력
  
-.gitignore
-build/
-install/
-log/
+## 실행 방법
+```
+python3 move.py
+```
